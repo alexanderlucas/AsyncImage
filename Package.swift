@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Asyncmage",
+    name: "AsyncImage",
     platforms: [
       .iOS(.v13),
       .macOS(.v10_15),
