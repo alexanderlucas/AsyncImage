@@ -1,7 +1,7 @@
 import XCTest
 @testable import Asyncmage
 
-final class AsyncmageTests: XCTestCase {
+final class AsyncImageTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
